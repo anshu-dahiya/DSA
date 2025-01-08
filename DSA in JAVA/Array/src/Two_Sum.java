@@ -13,7 +13,7 @@
 //Example 3:
 //Input: nums = [3,3], target = 6
 //Output: [0,1]
-import java.util.*;
+import java.util.*;            //To use Arrays.toString method
 
 public class Two_Sum {
     static int[] twoSum(int[] nums, int target){
